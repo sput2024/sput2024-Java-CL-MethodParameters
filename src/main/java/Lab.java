@@ -27,8 +27,7 @@ public class Lab {
      */
     public String copy(String text){
         
-        char value = '"';
-        String str = value + text + value;
-        return str;
+       
+        return text;
     }
 }
